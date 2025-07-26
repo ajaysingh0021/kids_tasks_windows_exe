@@ -1,0 +1,111 @@
+{
+    "users": {
+        "a@a.com": {
+            "pin": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+            "children": [
+                {
+                    "name": "a",
+                    "gender": "male",
+                    "tasks": [
+                        {
+                            "id": "task_1753503441",
+                            "text": "aa",
+                            "start_time": "10:00",
+                            "end_time": "11:00",
+                            "days": [
+                                "all"
+                            ],
+                            "completed_on": {
+                                "2025-07-25": false
+                            }
+                        },
+                        {
+                            "id": "task_1753503465",
+                            "text": "bb",
+                            "start_time": "14:00",
+                            "end_time": "18:00",
+                            "days": [
+                                "Friday",
+                                "Saturday",
+                                "Sunday"
+                            ],
+                            "completed_on": {
+                                "2025-07-25": false
+                            }
+                        },
+                        {
+                            "id": "task_1753503617",
+                            "text": "zz",
+                            "start_time": "1:00",
+                            "end_time": "2:00",
+                            "days": [
+                                "Monday"
+                            ],
+                            "completed_on": {}
+                        },
+                        {
+                            "id": "task_1753503666",
+                            "text": "task4",
+                            "start_time": "23:15",
+                            "end_time": "23:55",
+                            "days": [
+                                "Friday"
+                            ],
+                            "completed_on": {
+                                "2025-07-25": false
+                            }
+                        },
+                        {
+                            "id": "task_1753503708",
+                            "text": "Task5",
+                            "start_time": "23:24",
+                            "end_time": "23:30",
+                            "days": [
+                                "Friday",
+                                "Saturday",
+                                "Sunday"
+                            ],
+                            "completed_on": {
+                                "2025-07-25": false
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Monica",
+                    "gender": "male",
+                    "tasks": [
+                        {
+                            "id": "task_1753503896",
+                            "text": "Task1",
+                            "start_time": "23:27",
+                            "end_time": "1:05",
+                            "days": [
+                                "all"
+                            ],
+                            "completed_on": {
+                                "2025-07-25": false
+                            }
+                        },
+                        {
+                            "id": "task_1753503948",
+                            "text": "Task2",
+                            "start_time": "23:27",
+                            "end_time": "23:45",
+                            "days": [
+                                "all"
+                            ],
+                            "completed_on": {
+                                "2025-07-25": false
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "settings": {
+        "theme": "light",
+        "last_logged_in_user": "a@a.com"
+    }
+}
